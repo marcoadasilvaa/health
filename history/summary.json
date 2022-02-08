@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/app.sanna.pe",
     "slug": "api",
     "status": "down",
-    "uptime": "3.22%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "3.22%",
-    "uptimeMonth": "3.22%",
-    "uptimeYear": "3.22%",
-    "time": 684,
-    "timeDay": 684,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-08": 46,
+      "2022-02-07": 1340
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 312,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/200.48.199.90",
     "slug": "doctor",
     "status": "down",
-    "uptime": "14.18%",
-    "uptimeDay": "14.18%",
-    "uptimeWeek": "14.18%",
-    "uptimeMonth": "14.18%",
-    "uptimeYear": "14.18%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-08": 46,
+      "2022-02-07": 1340
     }
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 43,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43,
+    "time": 38,
+    "timeDay": 38,
+    "timeWeek": 38,
+    "timeMonth": 38,
+    "timeYear": 38,
     "dailyMinutesDown": {}
   }
 ]
