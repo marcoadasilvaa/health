@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 779,
-    "timeDay": 912,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 796,
+    "timeDay": 880,
+    "timeWeek": 796,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2022-02-09": 47,
+      "2022-02-09": 1156,
       "2022-02-08": 1440,
       "2022-02-07": 1340
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 821,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 500,
+    "timeDay": 692,
+    "timeWeek": 500,
+    "timeMonth": 500,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 47,
+      "2022-02-09": 1156,
       "2022-02-08": 1440,
       "2022-02-07": 1340
     }
@@ -72,11 +72,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 389,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 165,
+    "timeDay": 292,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Video",
+    "url": "https://jitsi01.diversolatam.com",
+    "icon": "https://favicons.githubusercontent.com/jitsi01.diversolatam.com",
+    "slug": "video",
+    "status": "down",
+    "uptime": "21.04%",
+    "uptimeDay": "21.04%",
+    "uptimeWeek": "21.04%",
+    "uptimeMonth": "21.04%",
+    "uptimeYear": "21.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   }
 ]
