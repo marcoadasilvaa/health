@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/app.sanna.pe",
     "slug": "api",
     "status": "down",
-    "uptime": "76.74%",
+    "uptime": "76.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.74%",
+    "uptimeYear": "76.78%",
     "time": 732,
     "timeDay": 687,
     "timeWeek": 692,
@@ -33,9 +33,9 @@
     "url": "https://sanna.pe",
     "icon": "https://favicons.githubusercontent.com/sanna.pe",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 864,
     "timeMonth": 776,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "Doctor",
@@ -52,11 +54,11 @@
     "icon": "https://favicons.githubusercontent.com/200.48.199.90",
     "slug": "doctor",
     "status": "down",
-    "uptime": "76.74%",
+    "uptime": "76.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.74%",
+    "uptimeYear": "76.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -80,9 +82,9 @@
     "url": "https://sanna.pe/citas/",
     "icon": "https://favicons.githubusercontent.com/sanna.pe",
     "slug": "web-patient",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 175,
     "timeMonth": 148,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "Video",
