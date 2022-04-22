@@ -19,6 +19,8 @@ sites:
     url: https://www.ayda.cl/
   - name: AydaCO
     url: https://ayda.com.co/
+  - name: Admin
+    url: https://admin.tutenlabs.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
