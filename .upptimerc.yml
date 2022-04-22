@@ -15,6 +15,10 @@ sites:
     url: https://jitsi01.diversolatam.com
   - name: Video Call
     url: https://jitsi01.diversolatam.com/test
+  - name: AydaCL
+    url: https://www.ayda.cl/
+  - name: AydaCO
+    url: https://ayda.com.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
