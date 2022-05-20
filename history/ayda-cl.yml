@@ -1,7 +1,7 @@
 url: https://www.ayda.cl/
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2022-05-19T23:16:54.725Z
+status: down
+code: 503
+responseTime: 191
+lastUpdated: 2022-05-20T05:12:45.837Z
 startTime: Fri Apr 22 2022 06:19:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
