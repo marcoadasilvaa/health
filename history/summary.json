@@ -84,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/sanna.pe",
     "slug": "web-patient",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 201,
     "timeDay": 234,
     "timeWeek": 230,
@@ -153,8 +153,8 @@
     "slug": "ayda-cl",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 450,
@@ -163,7 +163,6 @@
     "timeMonth": 425,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-06-17": 1,
       "2022-05-20": 18
     }
   },
@@ -174,8 +173,8 @@
     "slug": "ayda-co",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 917,
@@ -184,7 +183,6 @@
     "timeMonth": 610,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2022-06-17": 1,
       "2022-04-22": 15
     }
   },
