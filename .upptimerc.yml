@@ -4,7 +4,7 @@ repo: health # The name of this repository
 
 sites:
   - name: Api
-    url: https://app.sanna.pe
+    url: https://app.sanna.pe/validacionServicios.html
   - name: Web
     url: https://sanna.pe
   - name: Doctor
