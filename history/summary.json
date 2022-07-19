@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/app.sanna.pe",
     "slug": "api",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.42%",
     "time": 720,
     "timeDay": 834,
     "timeWeek": 982,
@@ -55,11 +55,11 @@
     "icon": "https://favicons.githubusercontent.com/200.48.199.90",
     "slug": "doctor",
     "status": "down",
-    "uptime": "94.40%",
+    "uptime": "94.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -197,9 +197,9 @@
     "url": "https://admin.tutenlabs.com/",
     "icon": "https://favicons.githubusercontent.com/admin.tutenlabs.com",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,6 +208,8 @@
     "timeWeek": 187,
     "timeMonth": 164,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 0
+    }
   }
 ]
