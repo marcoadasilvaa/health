@@ -25,6 +25,11 @@ sites:
     url: https://admfsm.tutenservicios.com/
   - name: Api Mobile (OLD)
     url: https://api-mobile.tutenservicios.com/
+  - name: S2
+    url: https://servi2.tuten.cl/
+  - name: FX
+    url: https://fenix.tuten.cl/
+    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
