@@ -22,7 +22,7 @@ sites:
   - name: Admin
     url: https://admin.tutenlabs.com/
   - name: Admin (OLD)
-    url: https://admin.tutenservicios.com/
+    url: https://admfsm.tutenservicios.com/
   - name: Api Mobile (OLD)
     url: https://api-mobile.tutenservicios.com/
     
