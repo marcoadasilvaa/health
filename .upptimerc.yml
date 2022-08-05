@@ -21,7 +21,11 @@ sites:
     url: https://ayda.com.co/
   - name: Admin
     url: https://admin.tutenlabs.com/
-
+  - name: Admin (OLD)
+    url: https://admin.tutenservicios.com/
+  - name: Api Mobile (OLD)
+    url: https://api-mobile.tutenservicios.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
