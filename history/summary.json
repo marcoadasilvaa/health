@@ -238,19 +238,19 @@
     "url": "https://api-mobile.tutenservicios.com/",
     "icon": "https://favicons.githubusercontent.com/api-mobile.tutenservicios.com",
     "slug": "api-mobile-old",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 273,
-    "timeDay": 395,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 288,
+    "timeDay": 379,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2022-08-07": 0
+      "2022-08-07": 15
     }
   },
   {
