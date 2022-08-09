@@ -29,6 +29,8 @@ sites:
     url: https://servi2.tuten.cl/
   - name: FX
     url: https://fenix.tuten.cl/
+  - name: Diner
+    url: https://www.dinersfx.pe/
     
     
 status-website:
