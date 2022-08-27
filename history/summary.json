@@ -299,19 +299,19 @@
     "url": "https://www.dinersfx.pe/",
     "icon": "https://favicons.githubusercontent.com/www.dinersfx.pe",
     "slug": "diner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 384,
-    "timeWeek": 407,
-    "timeMonth": 749,
-    "timeYear": 749,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 731,
+    "timeDay": 362,
+    "timeWeek": 397,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2022-08-27": 0
+      "2022-08-27": 34
     }
   }
 ]
