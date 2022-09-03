@@ -262,19 +262,17 @@
     "icon": "https://favicons.githubusercontent.com/servi2.tuten.cl",
     "slug": "s2",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 234,
     "timeWeek": 266,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {
-      "2022-09-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FX",
