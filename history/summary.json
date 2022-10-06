@@ -42,7 +42,7 @@
     "time": 658,
     "timeDay": 400,
     "timeWeek": 466,
-    "timeMonth": 487,
+    "timeMonth": 492,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2022-04-06": 75,
@@ -92,7 +92,7 @@
     "time": 167,
     "timeDay": 91,
     "timeWeek": 71,
-    "timeMonth": 77,
+    "timeMonth": 78,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-05-20": 276,
@@ -115,7 +115,7 @@
     "time": 287,
     "timeDay": 354,
     "timeWeek": 270,
-    "timeMonth": 274,
+    "timeMonth": 277,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2022-07-23": 20,
@@ -140,7 +140,7 @@
     "time": 72,
     "timeDay": 87,
     "timeWeek": 61,
-    "timeMonth": 68,
+    "timeMonth": 69,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2022-07-23": 19,
@@ -164,7 +164,7 @@
     "time": 858,
     "timeDay": 3839,
     "timeWeek": 3752,
-    "timeMonth": 3248,
+    "timeMonth": 3346,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2022-09-22": 24,
@@ -188,7 +188,7 @@
     "time": 1043,
     "timeDay": 4182,
     "timeWeek": 3902,
-    "timeMonth": 2492,
+    "timeMonth": 2566,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2022-09-22": 24,
@@ -216,7 +216,7 @@
     "time": 215,
     "timeDay": 215,
     "timeWeek": 150,
-    "timeMonth": 167,
+    "timeMonth": 170,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -234,7 +234,7 @@
     "time": 157,
     "timeDay": 193,
     "timeWeek": 125,
-    "timeMonth": 143,
+    "timeMonth": 145,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -252,7 +252,7 @@
     "time": 266,
     "timeDay": 311,
     "timeWeek": 262,
-    "timeMonth": 259,
+    "timeMonth": 262,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-08-07": 15
@@ -272,7 +272,7 @@
     "time": 318,
     "timeDay": 413,
     "timeWeek": 228,
-    "timeMonth": 249,
+    "timeMonth": 254,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -290,7 +290,7 @@
     "time": 282,
     "timeDay": 277,
     "timeWeek": 221,
-    "timeMonth": 243,
+    "timeMonth": 247,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2022-08-23": 21
@@ -301,19 +301,19 @@
     "url": "https://www.dinersfx.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dinersfx.pe.ico",
     "slug": "diner",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.79%",
-    "time": 1272,
-    "timeDay": 3374,
-    "timeWeek": 2006,
-    "timeMonth": 1512,
-    "timeYear": 1272,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.76%",
+    "time": 1277,
+    "timeDay": 2961,
+    "timeWeek": 1980,
+    "timeMonth": 1546,
+    "timeYear": 1277,
     "dailyMinutesDown": {
-      "2022-10-06": 1,
+      "2022-10-06": 21,
       "2022-09-29": 20,
       "2022-09-28": 22,
       "2022-09-17": 22,
