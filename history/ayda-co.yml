@@ -1,7 +1,7 @@
 url: https://ayda.com.co/
-status: up
-code: 200
-responseTime: 19583
-lastUpdated: 2022-11-10T20:57:15.602Z
+status: down
+code: 503
+responseTime: 2313
+lastUpdated: 2022-11-10T21:50:51.995Z
 startTime: Fri Apr 22 2022 06:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
