@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayda.com.co.ico",
     "slug": "ayda-co",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 1359,
     "timeDay": 2463,
     "timeWeek": 3618,
@@ -219,9 +219,9 @@
     "url": "https://admin.tutenlabs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.tutenlabs.com.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -230,16 +230,18 @@
     "timeWeek": 171,
     "timeMonth": 185,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   },
   {
     "name": "Admin (OLD)",
     "url": "https://admfsm.tutenservicios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenservicios.com.ico",
     "slug": "admin-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,25 +250,28 @@
     "timeWeek": 139,
     "timeMonth": 146,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   },
   {
     "name": "Api Mobile (OLD)",
     "url": "https://api-mobile.tutenservicios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-mobile.tutenservicios.com.ico",
     "slug": "api-mobile-old",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 266,
-    "timeDay": 371,
-    "timeWeek": 239,
-    "timeMonth": 260,
-    "timeYear": 266,
+    "time": 268,
+    "timeDay": 387,
+    "timeWeek": 259,
+    "timeMonth": 264,
+    "timeYear": 268,
     "dailyMinutesDown": {
+      "2022-11-16": 0,
       "2022-08-07": 15
     }
   },
