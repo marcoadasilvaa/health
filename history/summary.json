@@ -263,11 +263,11 @@
     "url": "https://api-mobile.tutenservicios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-mobile.tutenservicios.com.ico",
     "slug": "api-mobile-old",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 273,
     "timeDay": 310,
@@ -275,7 +275,7 @@
     "timeMonth": 287,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-12-05": 5,
+      "2022-12-05": 0,
       "2022-11-16": 17,
       "2022-08-07": 15
     }
