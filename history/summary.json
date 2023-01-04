@@ -230,19 +230,19 @@
     "url": "https://livit.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/livit.mx.ico",
     "slug": "livit",
-    "status": "down",
-    "uptime": "75.74%",
-    "uptimeDay": "75.74%",
-    "uptimeWeek": "75.74%",
-    "uptimeMonth": "75.74%",
-    "uptimeYear": "75.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.21%",
+    "uptimeDay": "5.21%",
+    "uptimeWeek": "5.21%",
+    "uptimeMonth": "5.21%",
+    "uptimeYear": "5.21%",
+    "time": 1335,
+    "timeDay": 1335,
+    "timeWeek": 1335,
+    "timeMonth": 1335,
+    "timeYear": 1335,
     "dailyMinutesDown": {
-      "2023-01-04": 0
+      "2023-01-04": 33
     }
   },
   {
