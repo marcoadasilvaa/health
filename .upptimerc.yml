@@ -19,6 +19,8 @@ sites:
     url: https://www.ayda.cl/
   - name: AydaCO
     url: https://ayda.com.co/
+  - name: Livit
+    url: https://livit.mx/
   - name: Admin
     url: https://admin.tutenlabs.com/
   - name: Admin (OLD)
