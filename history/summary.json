@@ -4,9 +4,9 @@
     "url": "https://app.sanna.pe/validacionServicios.html",
     "icon": "https://icons.duckduckgo.com/ip3/app.sanna.pe.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1138,
     "timeMonth": 1060,
     "timeYear": 923,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-04": 0
+    }
   },
   {
     "name": "Web",
@@ -340,18 +342,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dinersfx.pe.ico",
     "slug": "diner",
     "status": "down",
-    "uptime": "78.11%",
+    "uptime": "78.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "78.11%",
+    "uptimeYear": "78.07%",
     "time": 2679,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2679,
     "dailyMinutesDown": {
-      "2023-03-04": 62,
+      "2023-03-04": 208,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
