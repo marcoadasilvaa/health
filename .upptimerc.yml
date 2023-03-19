@@ -31,9 +31,18 @@ sites:
     url: https://servi2.tuten.cl/
   - name: FX
     url: https://fenix.tuten.cl/
-  - name: Diner
-    url: https://www.dinersfx.pe/
-    
+  - name: UCSP- Admision
+    url: https://admision.ucsp.edu.pe/
+  - name: UCSP- Admision Backend
+    url: https://admision.ucsp.edu.pe/back/api/menu
+  - name: UCSP - Vocacional
+    url: https://vocacional.ucsp.edu.pe/
+  - name: UCSP - Simulacro
+    url: https://simulacro.ucsp.edu.pe/
+  - name: UCSP - EDA
+    url: https://estilosdeaprendizaje.ucsp.edu.pe/
+  - name: UCSP - Preparate
+    url: https://preparate.ucsp.edu.pe/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
