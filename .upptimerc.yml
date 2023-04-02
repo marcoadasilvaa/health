@@ -38,16 +38,27 @@ sites:
   - name: UCSP- Admision
     url: https://admision.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP- Admision Backend
     url: https://admision.ucsp.edu.pe/back/api/menu
+    __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Vocacional
     url: https://vocacional.ucsp.edu.pe/
+    __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Simulacro
     url: https://simulacro.ucsp.edu.pe/
+    __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - EDA
     url: https://estilosdeaprendizaje.ucsp.edu.pe/
+    __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Preparate
     url: https://preparate.ucsp.edu.pe/
+    __dangerous__disable_verify_host: true
+    **delay: 2000 # Delay of 2 seconds between sites**
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
