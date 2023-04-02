@@ -19,8 +19,8 @@ sites:
     url: https://jitsi.sannavideos.com/
   - name: Video Call
     url: https://jitsi.sannavideos.com/test
-  - name: AydaCL
-    url: https://www.ayda.cl/
+  #- name: AydaCL
+  #  url: https://www.ayda.cl/
   - name: AydaCO
     url: https://ayda.com.co/
   - name: Livit
@@ -37,6 +37,7 @@ sites:
     url: https://fenix.tuten.cl/
   - name: UCSP- Admision
     url: https://admision.ucsp.edu.pe/
+    __dangerous__disable_verify_host: true
   - name: UCSP- Admision Backend
     url: https://admision.ucsp.edu.pe/back/api/menu
   - name: UCSP - Vocacional
