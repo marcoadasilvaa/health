@@ -15,6 +15,10 @@ sites:
     url: https://jitsi01.diversolatam.com
   - name: Video Call
     url: https://jitsi01.diversolatam.com/test
+  - name: Video 2
+    url: https://jitsi.sannavideos.com/
+  - name: Video Call
+    url: https://jitsi.sannavideos.com/test
   - name: AydaCL
     url: https://www.ayda.cl/
   - name: AydaCO
