@@ -38,27 +38,21 @@ sites:
   - name: UCSP- Admision
     url: https://admision.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP- Admision Backend
     url: https://admision.ucsp.edu.pe/back/api/menu
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Vocacional
     url: https://vocacional.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Simulacro
     url: https://simulacro.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - EDA
     url: https://estilosdeaprendizaje.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
   - name: UCSP - Preparate
     url: https://preparate.ucsp.edu.pe/
     __dangerous__disable_verify_host: true
-    **delay: 2000 # Delay of 2 seconds between sites**
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -67,6 +61,7 @@ status-website:
   baseUrl: /health
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
+  delay: 2000 # Delay of 2 seconds between sites**
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
