@@ -84,9 +84,9 @@
     "slug": "video",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "85.76%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "99.66%",
     "time": 295,
     "timeDay": 0,
@@ -94,7 +94,7 @@
     "timeMonth": 277,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1432,
       "2023-04-03": 9,
       "2022-11-01": 15,
       "2022-10-21": 72,
@@ -117,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 74,
-    "timeDay": 73,
-    "timeWeek": 74,
+    "timeDay": 74,
+    "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -161,8 +161,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 74,
-    "timeDay": 73,
-    "timeWeek": 74,
+    "timeDay": 74,
+    "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1427,
+      "2023-04-04": 1433,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
