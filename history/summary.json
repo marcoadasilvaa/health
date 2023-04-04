@@ -14,7 +14,7 @@
     "timeDay": 978,
     "timeWeek": 1045,
     "timeMonth": 1054,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.diversolatam.com.ico",
     "slug": "video",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "2.56%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "96.80%",
+    "uptime": "99.58%",
+    "uptimeDay": "2.27%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "96.79%",
     "uptimeYear": "99.67%",
     "time": 295,
     "timeDay": 0,
     "timeWeek": 293,
     "timeMonth": 277,
-    "timeYear": 302,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 9,
       "2022-11-01": 15,
       "2022-10-21": 72,
@@ -366,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 1394,
+      "2023-04-04": 1398,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
