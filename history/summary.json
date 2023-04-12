@@ -80,10 +80,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.diversolatam.com.ico",
     "slug": "video",
     "status": "down",
-    "uptime": "97.90%",
+    "uptime": "97.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.01%",
+    "uptimeMonth": "72.99%",
     "uptimeYear": "97.69%",
     "time": 295,
     "timeDay": 0,
@@ -91,7 +91,7 @@
     "timeMonth": 273,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-04-12": 295,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -125,7 +125,7 @@
     "timeDay": 78,
     "timeWeek": 74,
     "timeMonth": 74,
-    "timeYear": 75,
+    "timeYear": 74,
     "dailyMinutesDown": {
       "2023-04-12": 0,
       "2023-04-05": 0,
@@ -170,7 +170,7 @@
     "timeDay": 78,
     "timeWeek": 74,
     "timeMonth": 74,
-    "timeYear": 75,
+    "timeYear": 74,
     "dailyMinutesDown": {
       "2023-04-12": 0,
       "2023-04-05": 0,
@@ -194,7 +194,7 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.38%",
     "time": 2274,
-    "timeDay": 3108,
+    "timeDay": 3166,
     "timeWeek": 3015,
     "timeMonth": 3574,
     "timeYear": 2274,
@@ -374,7 +374,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -506,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-12": 296,
+      "2023-04-12": 301,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
