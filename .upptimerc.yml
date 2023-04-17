@@ -12,10 +12,6 @@ sites:
   - name: Web Patient
     url: https://sanna.pe/citas/
   - name: Video
-    url: https://jitsi01.diversolatam.com
-  - name: Video Call
-    url: https://jitsi01.diversolatam.com/test
-  - name: Video 2
     url: https://jitsi.sannavideos.com/
   - name: Video Call
     url: https://jitsi.sannavideos.com/test
@@ -23,8 +19,8 @@ sites:
   #  url: https://www.ayda.cl/
   - name: AydaCO
     url: https://ayda.com.co/
-  - name: Livit
-    url: https://livit.mx/
+  #- name: Livit
+  #  url: https://livit.mx/
   - name: Admin
     url: https://admin.tutenlabs.com/
   - name: Admin (OLD)
@@ -35,24 +31,24 @@ sites:
     url: https://servi2.tuten.cl/
   - name: FX
     url: https://fenix.tuten.cl/
-  - name: UCSP- Admision
-    url: https://admision.ucsp.edu.pe/
-    __dangerous__disable_verify_host: true
-  - name: UCSP- Admision Backend
-    url: https://admision.ucsp.edu.pe/back/api/menu
-    __dangerous__disable_verify_host: true
-  - name: UCSP - Vocacional
-    url: https://vocacional.ucsp.edu.pe/
-    __dangerous__disable_verify_host: true
-  - name: UCSP - Simulacro
-    url: https://simulacro.ucsp.edu.pe/
-    __dangerous__disable_verify_host: true
-  - name: UCSP - EDA
-    url: https://estilosdeaprendizaje.ucsp.edu.pe/
-    __dangerous__disable_verify_host: true
-  - name: UCSP - Preparate
-    url: https://preparate.ucsp.edu.pe/
-    __dangerous__disable_verify_host: true
+  #- name: UCSP- Admision
+  #  url: https://admision.ucsp.edu.pe/
+  #  __dangerous__disable_verify_host: true
+  #- name: UCSP- Admision Backend
+  #  url: https://admision.ucsp.edu.pe/back/api/menu
+  #  __dangerous__disable_verify_host: true
+  #- name: UCSP - Vocacional
+  #  url: https://vocacional.ucsp.edu.pe/
+  #  __dangerous__disable_verify_host: true
+  #- name: UCSP - Simulacro
+  #  url: https://simulacro.ucsp.edu.pe/
+  #  __dangerous__disable_verify_host: true
+  #- name: UCSP - EDA
+  #  url: https://estilosdeaprendizaje.ucsp.edu.pe/
+  #  __dangerous__disable_verify_host: true
+  #- name: UCSP - Preparate
+  #  url: https://preparate.ucsp.edu.pe/
+  #  __dangerous__disable_verify_host: true
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -61,7 +57,6 @@ status-website:
   baseUrl: /health
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  delay: 2000 # Delay of 2 seconds between sites**
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
