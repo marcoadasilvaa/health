@@ -4,10 +4,10 @@
     "url": "https://app.sanna.pe/validacionServicios.html",
     "icon": "https://icons.duckduckgo.com/ip3/app.sanna.pe.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 932,
@@ -15,7 +15,9 @@
     "timeWeek": 1123,
     "timeMonth": 1063,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-08": 1
+    }
   },
   {
     "name": "Web",
@@ -83,7 +85,7 @@
     "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.61%",
+    "uptimeMonth": "69.67%",
     "uptimeYear": "96.21%",
     "time": 295,
     "timeDay": 385,
