@@ -4,11 +4,11 @@
     "url": "https://app.sanna.pe/validacionServicios.html",
     "icon": "https://icons.duckduckgo.com/ip3/app.sanna.pe.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
     "timeDay": 1131,
@@ -16,7 +16,7 @@
     "timeMonth": 1067,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-05-09": 6
+      "2023-05-09": 0
     }
   },
   {
@@ -85,7 +85,7 @@
     "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.87%",
+    "uptimeMonth": "74.92%",
     "uptimeYear": "96.21%",
     "time": 295,
     "timeDay": 370,
@@ -150,10 +150,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayda.com.co.ico",
     "slug": "ayda-co",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "9.63%",
-    "uptimeWeek": "85.30%",
-    "uptimeMonth": "96.20%",
+    "uptime": "99.15%",
+    "uptimeDay": "7.99%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.12%",
     "time": 2353,
     "timeDay": 3246,
@@ -161,7 +161,7 @@
     "timeMonth": 2950,
     "timeYear": 2392,
     "dailyMinutesDown": {
-      "2023-05-09": 1301,
+      "2023-05-09": 1325,
       "2023-05-08": 137,
       "2023-05-07": 42,
       "2023-04-11": 182,
