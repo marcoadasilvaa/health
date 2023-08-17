@@ -17,8 +17,8 @@ sites:
     url: https://jitsi.sannavideos.com/test
   #- name: AydaCL
   #  url: https://www.ayda.cl/
-  - name: AydaCO
-    url: https://ayda.com.co/
+  #- name: AydaCO
+  #  url: https://ayda.com.co/
   #- name: Livit
   #  url: https://livit.mx/
   - name: Admin
@@ -29,8 +29,12 @@ sites:
     url: https://api-mobile.tutenservicios.com/
   - name: S2
     url: https://servi2.tuten.cl/
+  - name: S2 - Api
+    url: https://servi2.tuten.cl/TutenREST/
   - name: FX
     url: https://fenix.tuten.cl/
+  - name: FX - Api
+    url: https://fenix.tuten.cl/TutenREST/
   #- name: UCSP- Admision
   #  url: https://admision.ucsp.edu.pe/
   #  __dangerous__disable_verify_host: true
