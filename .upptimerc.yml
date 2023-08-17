@@ -24,7 +24,7 @@ sites:
   - name: Admin
     url: https://admin.tutenlabs.com/
   - name: Admin (OLD)
-    url: https://admfsm.tutenservicios.com/
+    url: https://admfsm.tutenlabs.com/
   - name: Api Mobile (OLD)
     url: https://api-mobile.tutenservicios.com/
   - name: S2
