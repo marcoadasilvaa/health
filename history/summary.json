@@ -6,16 +6,18 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1005,
+    "time": 1007,
     "timeDay": 1001,
     "timeWeek": 1103,
     "timeMonth": 1158,
     "timeYear": 1070,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-22": 0
+    }
   },
   {
     "name": "Web",
@@ -169,10 +171,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenlabs.com.ico",
     "slug": "admin-old",
     "status": "up",
-    "uptime": "83.36%",
+    "uptime": "83.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.48%",
-    "uptimeMonth": "12.70%",
+    "uptimeWeek": "65.49%",
+    "uptimeMonth": "13.16%",
     "uptimeYear": "82.61%",
     "time": 159,
     "timeDay": 76,
