@@ -7,14 +7,18 @@ sites:
     url: https://app.sanna.pe/validacionServicios.html
   - name: Web
     url: https://sanna.pe
-  - name: Doctor
-    url: https://200.48.199.90:8091/login
+  #- name: Doctor
+  #  url: https://200.48.199.90:8091/login
   - name: Web Patient
     url: https://sanna.pe/citas/
   - name: Video
     url: https://jitsi.sannavideos.com/
   - name: Video Call
     url: https://jitsi.sannavideos.com/test
+  - name: Video 01
+    url: https://jitsi01.sannavideos.com/
+  - name: Video Call 01
+    url: https://jitsi01.sannavideos.com/test
   #- name: AydaCL
   #  url: https://www.ayda.cl/
   #- name: AydaCO
