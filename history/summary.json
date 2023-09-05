@@ -190,10 +190,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenlabs.com.ico",
     "slug": "admin-old",
     "status": "up",
-    "uptime": "83.95%",
+    "uptime": "83.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.72%",
+    "uptimeMonth": "59.94%",
     "uptimeYear": "82.61%",
     "time": 157,
     "timeDay": 119,
@@ -355,17 +355,19 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 31,
-    "timeDay": 25,
-    "timeWeek": 24,
-    "timeMonth": 31,
-    "timeYear": 31,
-    "dailyMinutesDown": {}
+    "time": 30,
+    "timeDay": 19,
+    "timeWeek": 22,
+    "timeMonth": 30,
+    "timeYear": 30,
+    "dailyMinutesDown": {
+      "2023-09-05": 1
+    }
   }
 ]
