@@ -6,11 +6,11 @@ sites:
   - name: Api
     url: https://app.sanna.pe/validacionServicios.html
   - name: Web
-    url: https://sanna.pe
+    url: https://www.sanna.pe/
   #- name: Doctor
   #  url: https://200.48.199.90:8091/login
   - name: Web Patient
-    url: https://sanna.pe/citas/
+    url: https://www.sanna.pe/citas/
   - name: Video
     url: https://jitsi.sannavideos.com/
   - name: Video Call
