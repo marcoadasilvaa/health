@@ -111,7 +111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video-call",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -192,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenlabs.com.ico",
     "slug": "admin-old",
     "status": "up",
-    "uptime": "85.82%",
+    "uptime": "85.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -357,10 +357,10 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
@@ -368,6 +368,8 @@
     "timeWeek": 47,
     "timeMonth": 39,
     "timeYear": 32,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 1
+    }
   }
 ]
