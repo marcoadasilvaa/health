@@ -357,19 +357,19 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 32,
-    "timeDay": 42,
-    "timeWeek": 47,
-    "timeMonth": 39,
-    "timeYear": 32,
+    "time": 31,
+    "timeDay": 26,
+    "timeWeek": 42,
+    "timeMonth": 38,
+    "timeYear": 31,
     "dailyMinutesDown": {
-      "2023-10-27": 1
+      "2023-10-27": 4
     }
   }
 ]
