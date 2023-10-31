@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1081,
-    "timeDay": 4435,
+    "timeDay": 1214,
     "timeWeek": 2594,
     "timeMonth": 1669,
     "timeYear": 1195,
@@ -192,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenlabs.com.ico",
     "slug": "admin-old",
     "status": "up",
-    "uptime": "85.94%",
+    "uptime": "85.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -357,10 +357,10 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
@@ -368,6 +368,8 @@
     "timeWeek": 42,
     "timeMonth": 38,
     "timeYear": 32,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-31": 1
+    }
   }
 ]
