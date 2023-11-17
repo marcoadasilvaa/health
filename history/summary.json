@@ -49,19 +49,19 @@
     "url": "https://doctoronline.doctormas.com.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/doctoronline.doctormas.com.pe.ico",
     "slug": "doctor",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.00%",
     "time": 1783,
     "timeDay": 1783,
     "timeWeek": 1783,
     "timeMonth": 1783,
     "timeYear": 1783,
     "dailyMinutesDown": {
-      "2023-11-17": 64
+      "2023-11-17": 55
     }
   },
   {
