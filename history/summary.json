@@ -6,9 +6,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 1113,
     "timeDay": 4392,
@@ -16,7 +16,7 @@
     "timeMonth": 1905,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2023-11-17": 131,
+      "2023-11-17": 143,
       "2023-09-08": 21,
       "2023-08-23": 27,
       "2023-08-22": 18
@@ -49,19 +49,19 @@
     "url": "https://doctoronline.doctormas.com.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/doctoronline.doctormas.com.pe.ico",
     "slug": "doctor",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 2047,
-    "timeDay": 2047,
-    "timeWeek": 2047,
-    "timeMonth": 2047,
-    "timeYear": 2047,
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "90.73%",
+    "time": 1965,
+    "timeDay": 1965,
+    "timeWeek": 1965,
+    "timeMonth": 1965,
+    "timeYear": 1965,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 12
     }
   },
   {
