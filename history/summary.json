@@ -49,19 +49,19 @@
     "url": "https://doctoronline.doctormas.com.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/doctoronline.doctormas.com.pe.ico",
     "slug": "doctor",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "91.42%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "91.42%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "94.86%",
     "time": 1816,
     "timeDay": 1816,
     "timeWeek": 1816,
     "timeMonth": 1816,
     "timeYear": 1816,
     "dailyMinutesDown": {
-      "2023-11-17": 59
+      "2023-11-17": 55
     }
   },
   {
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
