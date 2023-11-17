@@ -1,7 +1,7 @@
 url: https://app.sanna.pe/validacionServicios.html
-status: down
-code: 503
-responseTime: 4800
-lastUpdated: 2023-11-17T04:25:43.121Z
+status: up
+code: 200
+responseTime: 863
+lastUpdated: 2023-11-17T07:19:47.347Z
 startTime: 2022-02-07T01:39:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
