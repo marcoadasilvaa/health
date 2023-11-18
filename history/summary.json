@@ -51,17 +51,17 @@
     "slug": "doctor",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "95.29%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "95.29%",
-    "uptimeYear": "95.29%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "91.32%",
     "time": 1794,
     "timeDay": 1794,
     "timeWeek": 1794,
     "timeMonth": 1794,
     "timeYear": 1794,
     "dailyMinutesDown": {
-      "2023-11-18": 0,
+      "2023-11-18": 51,
       "2023-11-17": 55
     }
   },
