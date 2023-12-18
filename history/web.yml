@@ -1,7 +1,7 @@
 url: https://www.sanna.pe/
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2023-12-18T23:12:54.409Z
+status: down
+code: 503
+responseTime: 1095
+lastUpdated: 2023-12-18T23:49:34.772Z
 startTime: 2022-02-07T01:39:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
