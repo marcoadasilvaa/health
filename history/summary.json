@@ -16,7 +16,7 @@
     "timeMonth": 712,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-01-31": 1104,
+      "2024-01-31": 1121,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -96,14 +96,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.04%",
+    "uptimeYear": "88.03%",
     "time": 519,
     "timeDay": 242,
     "timeWeek": 241,
     "timeMonth": 266,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-01-31": 1104,
+      "2024-01-31": 1121,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-01-31": 1104,
+      "2024-01-31": 1121,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -254,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sanna.pe.ico",
     "slug": "web-patient",
     "status": "down",
-    "uptime": "93.88%",
+    "uptime": "93.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -265,7 +265,7 @@
     "timeMonth": 18,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-01-31": 1104,
+      "2024-01-31": 1121,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -609,19 +609,19 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.96%",
+    "uptimeDay": "95.92%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 37,
-    "timeDay": 29,
+    "timeDay": 28,
     "timeWeek": 30,
     "timeMonth": 28,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-01-31": 58
+      "2024-01-31": 59
     }
   }
 ]
