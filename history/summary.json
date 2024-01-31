@@ -16,7 +16,7 @@
     "timeMonth": 712,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-01-31": 931,
+      "2024-01-31": 955,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -103,7 +103,7 @@
     "timeMonth": 266,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-01-31": 931,
+      "2024-01-31": 955,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/doctoronline.doctormas.com.pe.ico",
     "slug": "doctor",
     "status": "down",
-    "uptime": "2.05%",
+    "uptime": "2.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.06%",
+    "uptimeYear": "14.05%",
     "time": 2141,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-01-31": 931,
+      "2024-01-31": 955,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -265,7 +265,7 @@
     "timeMonth": 18,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-01-31": 931,
+      "2024-01-31": 955,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -609,10 +609,10 @@
     "url": "https://fenix.tuten.cl/TutenREST/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 37,
@@ -621,7 +621,7 @@
     "timeMonth": 27,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-01-31": 22
+      "2024-01-31": 23
     }
   }
 ]
