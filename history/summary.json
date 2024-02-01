@@ -16,7 +16,7 @@
     "timeMonth": 677,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2024-02-01": 295,
+      "2024-02-01": 300,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -104,7 +104,7 @@
     "timeMonth": 267,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-02-01": 295,
+      "2024-02-01": 300,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-02-01": 295,
+      "2024-02-01": 300,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -268,7 +268,7 @@
     "timeMonth": 18,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-02-01": 295,
+      "2024-02-01": 300,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -387,9 +387,9 @@
     "url": "https://jitsi01.sannavideos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.sannavideos.com.ico",
     "slug": "video-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -398,16 +398,18 @@
     "timeWeek": 215,
     "timeMonth": 202,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Video Call 01",
     "url": "https://jitsi01.sannavideos.com/test",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.sannavideos.com.ico",
     "slug": "video-call-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -416,7 +418,9 @@
     "timeWeek": 72,
     "timeMonth": 62,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Admin",
