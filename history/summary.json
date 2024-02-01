@@ -16,7 +16,7 @@
     "timeMonth": 677,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2024-02-01": 300,
+      "2024-02-01": 313,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -97,14 +97,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.92%",
+    "uptimeYear": "87.91%",
     "time": 519,
     "timeDay": 225,
     "timeWeek": 236,
     "timeMonth": 267,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-02-01": 300,
+      "2024-02-01": 313,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-02-01": 300,
+      "2024-02-01": 313,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -268,7 +268,7 @@
     "timeMonth": 18,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-02-01": 300,
+      "2024-02-01": 313,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -387,19 +387,19 @@
     "url": "https://jitsi01.sannavideos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.sannavideos.com.ico",
     "slug": "video-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 131,
-    "timeWeek": 215,
+    "timeDay": 160,
+    "timeWeek": 212,
     "timeMonth": 202,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 13
     }
   },
   {
@@ -407,19 +407,19 @@
     "url": "https://jitsi01.sannavideos.com/test",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi01.sannavideos.com.ico",
     "slug": "video-call-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 68,
-    "timeDay": 38,
-    "timeWeek": 72,
+    "timeDay": 49,
+    "timeWeek": 70,
     "timeMonth": 62,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 13
     }
   },
   {
