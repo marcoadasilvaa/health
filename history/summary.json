@@ -16,7 +16,7 @@
     "timeMonth": 329,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2024-03-03": 1393,
+      "2024-03-03": 1402,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -123,19 +123,19 @@
     "url": "https://www.sanna.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanna.pe.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "90.51%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "65.74%",
-    "uptimeMonth": "19.80%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "65.84%",
+    "uptimeMonth": "19.82%",
     "uptimeYear": "80.48%",
     "time": 498,
-    "timeDay": 492,
+    "timeDay": 489,
     "timeWeek": 488,
     "timeMonth": 478,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-03-03": 87,
+      "2024-03-03": 86,
       "2024-03-02": 69,
       "2024-03-01": 225,
       "2024-02-29": 312,
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-03-03": 1393,
+      "2024-03-03": 1402,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -351,17 +351,16 @@
     "slug": "web-patient",
     "status": "up",
     "uptime": "90.50%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "20.11%",
-    "uptimeYear": "80.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "67.29%",
+    "uptimeMonth": "20.15%",
+    "uptimeYear": "80.50%",
     "time": 95,
     "timeDay": 96,
     "timeWeek": 109,
     "timeMonth": 104,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-03-03": 12,
       "2024-03-02": 185,
       "2024-03-01": 73,
       "2024-02-29": 279,
@@ -563,7 +562,7 @@
     "timeDay": 288,
     "timeWeek": 162,
     "timeMonth": 180,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2023-12-24": 63,
       "2023-11-14": 16
@@ -584,7 +583,7 @@
     "timeDay": 285,
     "timeWeek": 149,
     "timeMonth": 167,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2023-12-24": 63,
       "2023-11-14": 16,
@@ -690,7 +689,7 @@
     "timeDay": 637,
     "timeWeek": 349,
     "timeMonth": 355,
-    "timeYear": 328,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-03-03": 61,
       "2023-05-31": 336
@@ -733,7 +732,7 @@
     "timeDay": 515,
     "timeWeek": 236,
     "timeMonth": 285,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-03-24": 18
     }
