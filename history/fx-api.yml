@@ -1,7 +1,7 @@
 url: https://fenix.tuten.cl/TutenREST/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-10T05:40:37.506Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2024-04-10T05:51:44.438Z
 startTime: 2023-08-17T14:08:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
