@@ -16,7 +16,7 @@
     "timeMonth": 640,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2024-04-10": 341,
+      "2024-04-10": 346,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -164,7 +164,7 @@
     "status": "down",
     "uptime": "88.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.57%",
+    "uptimeWeek": "35.52%",
     "uptimeMonth": "45.76%",
     "uptimeYear": "75.12%",
     "time": 502,
@@ -173,7 +173,7 @@
     "timeMonth": 575,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2024-04-10": 341,
+      "2024-04-10": 346,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2024-04-10": 341,
+      "2024-04-10": 346,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -453,7 +453,7 @@
     "status": "down",
     "uptime": "88.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.57%",
+    "uptimeWeek": "35.52%",
     "uptimeMonth": "45.76%",
     "uptimeYear": "75.15%",
     "time": 104,
@@ -462,7 +462,7 @@
     "timeMonth": 314,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-04-10": 341,
+      "2024-04-10": 346,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -837,19 +837,19 @@
     "url": "https://fenix.tuten.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/fenix.tuten.cl.ico",
     "slug": "fx",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 212,
-    "timeWeek": 218,
-    "timeMonth": 219,
+    "time": 281,
+    "timeDay": 194,
+    "timeWeek": 210,
+    "timeMonth": 217,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 5
     }
   },
   {
@@ -859,9 +859,9 @@
     "slug": "fx-api",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 35,
     "timeDay": 67,
@@ -869,7 +869,7 @@
     "timeMonth": 28,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2024-04-10": 0,
+      "2024-04-10": 6,
       "2024-02-01": 28,
       "2024-01-31": 74
     }
