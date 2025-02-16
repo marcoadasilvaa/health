@@ -16,7 +16,7 @@
     "timeMonth": 531,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-02-16": 1134,
+      "2025-02-16": 1139,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -364,7 +364,7 @@
     "timeMonth": 415,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-02-16": 1134,
+      "2025-02-16": 1139,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -681,7 +681,7 @@
     "timeMonth": 588,
     "timeYear": 1797,
     "dailyMinutesDown": {
-      "2025-02-16": 1134,
+      "2025-02-16": 1139,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -924,7 +924,7 @@
     "timeMonth": 20,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-02-16": 1135,
+      "2025-02-16": 1139,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -1310,19 +1310,19 @@
     "url": "https://admin.tutenlabs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.tutenlabs.com.ico",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 129,
-    "timeWeek": 125,
-    "timeMonth": 133,
-    "timeYear": 166,
+    "time": 166,
+    "timeDay": 221,
+    "timeWeek": 149,
+    "timeMonth": 139,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-02-16": 1
+      "2025-02-16": 5
     }
   },
   {
