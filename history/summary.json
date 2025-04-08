@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.sanna.pe.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "59.73%",
+    "uptime": "59.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 584,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-04-08": 73,
+      "2025-04-08": 317,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -353,7 +353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sanna.pe.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "65.91%",
+    "uptime": "65.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -364,7 +364,7 @@
     "timeMonth": 331,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-04-08": 73,
+      "2025-04-08": 317,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -683,7 +683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doctoronline.doctormas.com.pe.ico",
     "slug": "doctor",
     "status": "down",
-    "uptime": "28.81%",
+    "uptime": "28.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -694,7 +694,7 @@
     "timeMonth": 457,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2025-04-08": 73,
+      "2025-04-08": 317,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -926,7 +926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sanna.pe.ico",
     "slug": "web-patient",
     "status": "down",
-    "uptime": "65.90%",
+    "uptime": "65.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -937,7 +937,7 @@
     "timeMonth": 21,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2025-04-08": 73,
+      "2025-04-08": 317,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1256,9 +1256,9 @@
     "url": "https://jitsi.sannavideos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1267,16 +1267,18 @@
     "timeWeek": 310,
     "timeMonth": 267,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "Video Call",
     "url": "https://jitsi.sannavideos.com/test",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video-call",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1285,7 +1287,9 @@
     "timeWeek": 62,
     "timeMonth": 49,
     "timeYear": 67,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "Video 01",
@@ -1357,7 +1361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admfsm.tutenlabs.com.ico",
     "slug": "admin-old",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
