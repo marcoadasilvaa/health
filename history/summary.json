@@ -16,7 +16,7 @@
     "timeMonth": 584,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-04-08": 317,
+      "2025-04-08": 333,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -364,7 +364,7 @@
     "timeMonth": 331,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-04-08": 317,
+      "2025-04-08": 333,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -694,7 +694,7 @@
     "timeMonth": 457,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2025-04-08": 317,
+      "2025-04-08": 333,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -937,7 +937,7 @@
     "timeMonth": 21,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2025-04-08": 317,
+      "2025-04-08": 333,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1256,19 +1256,19 @@
     "url": "https://jitsi.sannavideos.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 425,
-    "timeWeek": 310,
-    "timeMonth": 267,
+    "timeDay": 280,
+    "timeWeek": 288,
+    "timeMonth": 263,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 16
     }
   },
   {
@@ -1276,11 +1276,11 @@
     "url": "https://jitsi.sannavideos.com/test",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.sannavideos.com.ico",
     "slug": "video-call",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 68,
     "timeDay": 61,
@@ -1288,7 +1288,7 @@
     "timeMonth": 49,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 16
     }
   },
   {
